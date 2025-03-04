@@ -10,7 +10,7 @@ Projeto da Escola DNC, que deu como desafio a criação de uma ladingpage onde o
 - SheetMonkey
 
 ### Layout:
-- [Figma](https://www.figma.com/design/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=3-133&t=goA0EvTe2bJ6wLeI-0)
+- <a href="https://www.figma.com/design/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=3-133&t=goA0EvTe2bJ6wLeI-0" target="_blank">Link do projeto</a>
 
 ### Link do projeto:
-- [Link do projeto](https://desafio01rid91456.netlify.app/)
+- <a href="https://desafio01rid91456.netlify.app/" target="_blank">Link do projeto</a>
