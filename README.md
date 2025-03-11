@@ -9,6 +9,9 @@ Projeto da Escola DNC, que deu como desafio a criação de uma ladingpage onde o
 - Google Fonts
 - SheetMonkey
 
+### Planilha do SheetMonkey:
+- [Link da planilha](https://docs.google.com/spreadsheets/d/1zdX17KbX5nIm7DBM3aXEf27W1Bwxn9fSw8M6Ah3Xpzo/edit?usp=sharing)
+
 ### Layout:
 - <a href="https://www.figma.com/design/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=3-133&t=goA0EvTe2bJ6wLeI-0" target="_blank">Link do projeto</a>
 
